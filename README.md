@@ -27,7 +27,7 @@ BeCode's Getflix project
 
       * Back-end PHP Back office for user and comment management (CRUD)
       * Deployement of the site
-      * Creation of our workchat
+      * Creation of our worktchat
       
 * [Melissa Fruit](https://github.com/Melissa-Fruit)
 
