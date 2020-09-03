@@ -15,22 +15,25 @@ BeCode's Getflix project
 
       * GithubMaster and project manager
       * Create de Database 
-      * finalizing the details
+      * Finalizing al the details
       
 * [Masato Deweerdt](https://github.com/masatoDeweerdt) 
 
-      * Front-end, design 
-      * make mockup with figma
-      
+      * Front-end, HTML5, CSS and Bootstrap
+      * Design and thumbnails
+      * Php password recovery
+          
 * [Bembassat Frédéric](https://github.com/Fbembassat)
 
-      * Back-end PHP Back office for user and comment management
-      * Deplyement of the site
+      * Back-end PHP Back office for user and comment management (CRUD)
+      * Deployement of the site
+      * Creation of our workchat
       
 * [Melissa Fruit](https://github.com/Melissa-Fruit)
 
-      * Back-end PHP and MySQL Sign In and Sign Up
-      * readme
+      * Back-end PHP and MySQL Sign In, Sign Up and comment section
+      * Readme
+      * Newsletter with mailchimp
      
 **Each member of the team worked on the whole project, we helped and learned from each other.** 
   
@@ -43,7 +46,8 @@ Putting into practice wat we learned
 
 In this exercise we must create a Streaming site in html / css, javascript and php.
 
-Get inspired by Netflix, Amazon Prime Video and other Popcorn Time, Stremio ... The goal is to display a catalog of movies. Spot the similarities between these platforms (navbar, header, search tool, different categories of videos…) See what is cool and what works.
+We get inspired by Netflix.
+The goal is to display a catalog of movies. 
 
 ### Must-have features
 
@@ -62,15 +66,14 @@ Get inspired by Netflix, Amazon Prime Video and other Popcorn Time, Stremio ... 
 
 ### Miscellanous information
 
-- The videos will not be hosted by you, a simple link to the Youtube trailer will suffice.
+- The videos are not hosted, it are a simple link to the Youtube trailer.
 
- member of the team must work on the whole project.
 
 ## Evaluation criterias
 
 | Criteria       | Indicator                                                    | Yes/No |
 | -------------- | ------------------------------------------------------------ | ------ |
-| 1. Is complete | The steam has realized all must-have features.             |        |
+| 1. Is complete | The team has realized all must-have features.                |        |
 |                | There is a published GitHub page available.                  |        |
 |                | The code is well indented and commented                      |        |
 |                | The readme is clean and complete                             |        |
