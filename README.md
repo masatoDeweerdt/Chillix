@@ -14,7 +14,7 @@ BeCode's Getflix project
 * [Lap hoang](https://github.com/lap-hoang24) 
 
       * GithubMaster and project manager
-      * Create de Database 
+      * Created the Databases and the Trello 
       * Finalizing al the details
       
 * [Masato Deweerdt](https://github.com/masatoDeweerdt) 
