@@ -89,4 +89,3 @@ The goal is to display a catalog of movies.
 - Stackoverflow.
 - w3schools
 - PHP official documentation.
-- 
