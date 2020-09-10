@@ -15,7 +15,7 @@ BeCode's Getflix project
 
       * GithubMaster and project manager
       * Created the Databases and the Trello 
-      * Finalizing all the details
+      * Finalizing al the details
       
 * [Masato Deweerdt](https://github.com/masatoDeweerdt) 
 
@@ -89,3 +89,7 @@ The goal is to display a catalog of movies.
 - Stackoverflow.
 - w3schools
 - PHP official documentation.
+
+## Few screenshots
+
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750368681111978025/login.png "Log in")
