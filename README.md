@@ -15,7 +15,7 @@ BeCode's Getflix project
 
       * GithubMaster and project manager
       * Created the Databases and the Trello 
-      * Finalizing al the details
+      * Finalizing all the details
       
 * [Masato Deweerdt](https://github.com/masatoDeweerdt) 
 
