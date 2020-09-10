@@ -20,8 +20,8 @@ BeCode's Getflix project
 * [Masato Deweerdt](https://github.com/masatoDeweerdt) 
 
       * Front-end, HTML5, CSS and Bootstrap
-      * Design and thumbnails
-      * Php password recovery
+      * Design and thumbnails, import & filter the database
+      * Back-end PHP password recovery
           
 * [Bembassat Frédéric](https://github.com/Fbembassat)
 
@@ -83,8 +83,7 @@ The goal is to display a catalog of movies.
 |                | The readme is clean and complete                             |  Yes   |
 |                | At least one Nice-to-have features is ok                     |  Yes   |
 | 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |  Yes   |
-|                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |        |
-|                | The code is well indented and commented                      |  no    |
+|                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |   NO    |
 
 ## Credits
 
@@ -115,3 +114,8 @@ The goal is to display a catalog of movies.
 ![category page ](assets/images/category.png)
 #### Databases relations
 ![relations of database tables](assets/images/relational-database.png)
+#### Some code
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753743132969140334/Capture_decran_2020-09-11_a_00.15.30.png)
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753743135959547944/Capture_decran_2020-09-11_a_00.14.15.png)
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753743137066975262/Capture_decran_2020-09-11_a_00.07.45.png)
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753743134218780723/Capture_decran_2020-09-11_a_00.14.56.png)
