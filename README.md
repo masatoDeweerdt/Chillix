@@ -73,23 +73,25 @@ The goal is to display a catalog of movies.
 
 | Criteria       | Indicator                                                    | Yes/No |
 | -------------- | ------------------------------------------------------------ | ------ |
-| 1. Is complete | The team has realized all must-have features.                |  Yes   |
-|                | There is a published GitHub page available.                  |  Yes   |
-|                | The code is well indented and commented                      |  Yes   |
-|                | The readme is clean and complete                             |  Yes   |
-|                | At least one Nice-to-have features is ok                     |  Yes   |
-| 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |  Yes   |
+| 1. Is complete | The team has realized all must-have features.                |        |
+|                | There is a published GitHub page available.                  |        |
+|                | The code is well indented and commented                      |        |
+|                | The readme is clean and complete                             |        |
+|                | At least one Nice-to-have features is ok                     |        |
+| 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |        |
 |                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |        |
-|                | The code is well indented and commented                      |    No  |
+|                | The code is well indented and commented                      |        |
 
 ## Credits
 
-- Royalty free picture for the background from wallpaperfalre.
+- Royalty free picture for the background from wallpaperflare.
 - Tutorial "Create a Netflix clone from Scratch- JavaScript PHP + MySQL" from Reece Kenney.
 - Stackoverflow.
-- w3schools
+- w3schools.
 - PHP official documentation.
+- Movie database from IMDb.
 
 ## Few screenshots
 
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750368681111978025/login.png "Log in")
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750119227918385162/footer.png "Footer")
