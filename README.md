@@ -97,9 +97,8 @@ The goal is to display a catalog of movies.
 
 ## A few screenshots from website
 
-#### Login page
-![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750368681111978025/login.png "Log in")
-
+#### Landing page
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753683973972033646/Capture_decran_2020-09-10_a_14.53.46.png "Landing page")
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750119227918385162/footer.png "Footer")
 #### Main streaming page
 ![mainpage](assets/images/mainpage.png)
