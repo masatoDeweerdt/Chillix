@@ -41,6 +41,8 @@ BeCode's Getflix project
 
 #### Access directly to Chillix mainpage: http://chillix.epizy.com/main.php/
 
+#### The link to our Trello: https://trello.com/b/tcBYdSAM/chillix
+
 
 ## Mission objectives 
 
