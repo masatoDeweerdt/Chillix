@@ -85,7 +85,7 @@ The goal is to display a catalog of movies.
 |                | The readme is clean and complete                             |  Yes   |
 |                | At least one Nice-to-have features is ok                     |  Yes   |
 | 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |  Yes   |
-|                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |   NO    |
+|                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |   No    |
 
 ## Credits
 
