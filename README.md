@@ -37,6 +37,10 @@ BeCode's Getflix project
      
 **Each member of the team worked on the whole project, we helped and learned from each other.** 
   
+#### Access to Chillix from the beginning: http://chillix.epizy.com/
+
+#### Access directly to Chillix mainpage: http://chillix.epizy.com/main.php/
+
 
 ## Mission objectives 
 
@@ -91,7 +95,15 @@ The goal is to display a catalog of movies.
 - PHP official documentation.
 - Movie database from IMDb.
 
-## Few screenshots
+## A few screenshots from website
 
+#### Login page
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750368681111978025/login.png "Log in")
+
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750119227918385162/footer.png "Footer")
+#### Main streaming page
+![mainpage](assets/images/mainpage.png)
+#### Movies categories
+![category page ](assets/images/category.png)
+#### Databases relations
+![relations of database tables](assets/images/relational-database.png)
