@@ -106,6 +106,8 @@ The goal is to display a catalog of movies.
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753683952618962964/Capture_decran_2020-09-10_a_17.02.33.png "Sign Up")
 #### Sign in
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753683968204865666/Capture_decran_2020-09-10_a_16.49.56.png "Sign in")
+#### Password recovery
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753713218765193376/passrecovery.png "Password recovery")
 
 #### Main streaming page
 ![mainpage](assets/images/mainpage.png)
