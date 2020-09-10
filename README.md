@@ -101,7 +101,7 @@ The goal is to display a catalog of movies.
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753683968632815706/Capture_decran_2020-09-10_a_15.28.22.png "Trello")
 #### Landing page
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753683973972033646/Capture_decran_2020-09-10_a_14.53.46.png "Landing page")
-![alt text](https://cdn.discordapp.com/attachments/746282623696896130/750119227918385162/footer.png "Footer")
+![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753692419521904660/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3734363238323632333639.png "Footer")
 #### Sign up
 ![alt text](https://cdn.discordapp.com/attachments/746282623696896130/753683952618962964/Capture_decran_2020-09-10_a_17.02.33.png "Sign Up")
 #### Sign in
