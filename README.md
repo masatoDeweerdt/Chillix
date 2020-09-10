@@ -73,14 +73,14 @@ The goal is to display a catalog of movies.
 
 | Criteria       | Indicator                                                    | Yes/No |
 | -------------- | ------------------------------------------------------------ | ------ |
-| 1. Is complete | The team has realized all must-have features.                |        |
-|                | There is a published GitHub page available.                  |        |
-|                | The code is well indented and commented                      |        |
-|                | The readme is clean and complete                             |        |
-|                | At least one Nice-to-have features is ok                     |        |
-| 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |        |
+| 1. Is complete | The team has realized all must-have features.                |  Yes   |
+|                | There is a published GitHub page available.                  |  Yes   |
+|                | The code is well indented and commented                      |  Yes   |
+|                | The readme is clean and complete                             |  Yes   |
+|                | At least one Nice-to-have features is ok                     |  Yes   |
+| 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |  Yes   |
 |                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |        |
-|                | The code is well indented and commented                      |        |
+|                | The code is well indented and commented                      |    No  |
 
 ## Credits
 
