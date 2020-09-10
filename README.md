@@ -90,6 +90,8 @@ The goal is to display a catalog of movies.
 ## Credits
 
 - Royalty free picture for the background from [Wallpaper Flare](https://www.wallpaperflare.com/)
+- Movie thumbnails from [IMDb](https://www.imdb.com/)
+- Movie database from [databasestar](https://www.databasestar.com/sample-database-movies/)
 - Tutorial [Create a Netflix clone from Scratch- JavaScript PHP + MySQL](https://www.udemy.com/course/netflix-clone/) from Reece Kenney
 - [Stack Overflow](https://stackoverflow.com/)
 - [W3schools](https://www.w3schools.com/)
