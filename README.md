@@ -81,3 +81,12 @@ The goal is to display a catalog of movies.
 | 2. Is Correct  | The HTML and CSS pass the W3C Validation tool.               |        |
 |                | The lighthouse test scores 90 at least on Performance, Best Practices, Accessibility and SEO. |        |
 |                | The code is well indented and commented                      |        |
+
+## Credits
+
+- Royalty free picture for the background from wallpaperfalre.
+- Tutorial "Create a Netflix clone from Scratch- JavaScript PHP + MySQL" from Reece Kenney.
+- Stackoverflow.
+- w3schools
+- PHP official documentation.
+- 
