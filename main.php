@@ -133,8 +133,8 @@ if (isset($_SESSION["loggedin"])) {
         <div class="col-lg-5 offset-lg-1">
           <ul class="row d-flex align-items-center justify-content-end mr-lg-4">
             <li id="search-bar" class="mr-lg-3">
+              <!----------SEARCH ------------>
               <form id="hint" class="d-flex align-items-center" method="POST" autocomplete="off">
-                <!----------SEARCH ------------>
                 <i class="fa fa-search p-lg-1"></i>
                 <input type="text" name="search" placeholder="Search your best shit..." autofocus onkeyup="getMovie(this.value)">
                 <div id="movie-hint"></div>
