@@ -88,12 +88,12 @@ The goal is to display a catalog of movies.
 
 ## Credits
 
-- Royalty free picture for the background from wallpaperflare.
-- Tutorial "Create a Netflix clone from Scratch- JavaScript PHP + MySQL" from Reece Kenney.
-- Stackoverflow.
-- w3schools.
-- PHP official documentation.
-- Movie database from IMDb.
+- Royalty free picture for the background from [wallpaperflare](https://www.wallpaperflare.com/)
+- Tutorial [Create a Netflix clone from Scratch- JavaScript PHP + MySQL](https://www.udemy.com/course/netflix-clone/) from Reece Kenney
+- [Stack Overflow](https://stackoverflow.com/)
+- [w3schools](https://www.w3schools.com/)
+- [PHP Documentation](https://www.php.net/docs.php)
+- Movie database from [IMDb](https://www.imdb.com/interfaces/)
 
 ## A few screenshots of the project
 
