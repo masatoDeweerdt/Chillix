@@ -96,7 +96,6 @@ The goal is to display a catalog of movies.
 - [Stack Overflow](https://stackoverflow.com/)
 - [W3schools](https://www.w3schools.com/)
 - [PHP Documentation](https://www.php.net/docs.php)
-- Movie database from [IMDb](https://www.imdb.com/interfaces/)
 
 ## A few screenshots of the project
 
